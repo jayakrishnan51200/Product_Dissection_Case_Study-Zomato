@@ -86,7 +86,7 @@ Product dissection is the process of breaking down a product's components, featu
 
 ## 📊 ER Diagram
 
-![ER Diagram](ER Diagram.png)
+![ER Diagram](ER_Diagram.png)
 
 ---
 
